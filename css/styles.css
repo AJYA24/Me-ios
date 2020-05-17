@@ -1,0 +1,207 @@
+h1 {
+  font-size: 5.62rem;
+  font-family: 'Sacramento', cursive;
+  margin: 50 auto 0 auto;
+  color: #66BFBF;
+  text-align: center;
+  line-height: 2;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  background-color: white;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  padding-bottom: 10px;
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  text-decoration: bold;
+}
+
+p {
+  line-height: 2;
+  color: white;
+  color: #40514E;
+  font-size: 14pt;
+  font-kerning: normal;
+}
+
+a {
+  color: #11999E;
+margin: 10px 20px;
+text-decoration: none;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+
+hr {
+  border-width: 6px;
+  border-style: dotted;
+  border-color: grey;
+  width: 6%;
+  margin: 100px auto;
+  border-top: none;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 60px 0 20px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 2500px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 200px;
+  top: 40px;
+}
+
+.programmer {}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.Speedcubing-img {
+  float: left;
+  margin-right: 30px;
+  margin-left: 100px;
+  position: absolute;
+left: 100px;
+width: 22%;
+margin-bottom: -200px;
+height: 11%;
+  }
+
+.waveboards-img {
+  margin: 10rem 20px 0 100px;
+  width: 25%;
+  float: right;
+  height: 200px;
+  position: relative;
+  left: -5rem;
+}
+
+
+
+.HTML-Coding-img {
+float: left;
+margin-bottom: 30px;
+margin-top: 10rem;
+position: relative;
+left: -19rem;
+top: -7rem;
+width: 75%;
+}
+
+.waveboard-spacing {
+position: relative;
+right: 7rem;
+margin-top: 15rem;
+}
+
+.Coding-spacing {
+clear: left;
+position: relative;
+top: -350px;
+width: 600px;
+}
+
+
+.contact-me{
+  margin: 76px auto;
+}
+
+.contact-message{
+  width: 20%;
+  margin: 40px auto 60px;
+}
+
+
+
+.classname {
+	background-color:#4557c7;
+	-webkit-border-top-left-radius:8px;
+	-moz-border-radius-topleft:8px;
+	border-top-left-radius:8px;
+	-webkit-border-top-right-radius:8px;
+	-moz-border-radius-topright:8px;
+	border-top-right-radius:8px;
+	-webkit-border-bottom-right-radius:8px;
+	-moz-border-radius-bottomright:8px;
+	border-bottom-right-radius:8px;
+	-webkit-border-bottom-left-radius:8px;
+	-moz-border-radius-bottomleft:8px;
+	border-bottom-left-radius:8px;
+text-indent:0;
+	border:1px solid #18ab29;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+height:46px;
+	line-height:46px;
+width:198px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #2f6627;
+}.classname:hover {
+	background-color:#21b5cf;
+}.classname:active {
+	position:relative;
+	top:1px;
+}
+
+.speedcubing{
+position: relative;
+right: -15rem;
+}
+
+.coding{
+  font-size: 12pt;
+}
+
+
+.wave{
+  font-size: 20pt;
+}
